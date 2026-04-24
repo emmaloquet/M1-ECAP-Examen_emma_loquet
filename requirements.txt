@@ -9,6 +9,3 @@ dash-bootstrap-components==1.5.0
 dash-bootstrap-templates==1.1.2
 pandas-datareader==0.10.0
 gunicorn
-setuptools
-wheel
-pip
